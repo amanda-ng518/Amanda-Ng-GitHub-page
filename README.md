@@ -13,5 +13,5 @@ Comments: "Very thorough, especially considering this is all self taught. It wou
 ### Graded 100/100
 Comments: "Great job, very cool collection of definitions!"
 
-## A4: Explaining Probability in 3 levels
+## A4: Explaining Probability in 3 levels (video)
 ### To be graded
