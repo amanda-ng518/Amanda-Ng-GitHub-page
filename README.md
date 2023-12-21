@@ -1,8 +1,8 @@
 # Amanda Ng GitHub page
 
 - Cousework assignments
-  - STA299 ROP 
-  - ENV399 ROP 
+  - STA299 ROP (Data Sciences Cafe)
+  - ENV399 ROP (COBWEB research project)
   - STA304 
 - Research posters
   - "Predicting Life Satisfaction from Life Domain Satisfaction: A Clustering Approach to Bottom-up Theories of Subjective Well-being" (CSSC Research Poster)
