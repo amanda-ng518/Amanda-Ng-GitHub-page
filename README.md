@@ -1,6 +1,6 @@
 # Amanda Ng GitHub page
 
-- Cousework assignments
+- Cousework assignments (all graded above 90%)
   - STA299 ROP (Data Sciences Cafe)
   - ENV399 ROP (COBWEB research project)
   - STA304 
