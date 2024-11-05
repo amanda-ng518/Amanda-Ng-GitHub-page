@@ -10,5 +10,7 @@
   - "Statistical Methods of Variant Calling in Next-Generation Sequence Data Analysis" (pressented at 2023 SSC)
   - "Population Modeling: An agent-based approach" (Research Opportunity Program 23-24)
   - "Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations in Psychiatry" (Camh; IMS SURP)
+- Research report
+  - “Aspects of Robust Regression” (2024 Summer UTEA)
 - Internship research presentation slides
   - "Canada Household Greenhouse Gas Map"
